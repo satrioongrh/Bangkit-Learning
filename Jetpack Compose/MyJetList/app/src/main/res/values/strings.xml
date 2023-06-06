@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyJetList</string>
+    <string name="menu_profile">Profile</string>
+    <string-array name="data_description">
+        <item>SMercedes-AMG GT (C190/R190) adalah coupé fastback 2 pintu, 2 tempat duduk dan roadster yang diproduksi oleh Mercedes-AMG. Mobil sport tersebut dipresentasikan pada 9 September 2014 dan secara resmi diluncurkan ke publik pada bulan Oktober 2014 di Paris Motor Show.[4] Setelah SLS AMG, itu adalah mobil sport kedua yang dikembangkan seluruhnya oleh Mercedes-AMG. Mobil ini diproduksi dalam dua variasi performa, dengan GT S (C120) memiliki performa yang sedikit lebih tinggi </item>
+        <item>BMW M3 adalah versi performa-tinggi dari BMW Seri 3 yang dikembangkan oleh divisi BMW, BMW M. Model-model M3 diambil dari seri-3 E30, E36, E46 dan E90/E92/E93 dan tersedia dengan model coupé, sedan, dan konvertibel. Upgrade dari versi seri 3 biasa diantaranya mesin yang lebih bertenaga dan responsif, sistem pengendalian/suspensi/rem yang lebih canggih, bodi lebih aerodinamis, dan emblem 3 warna "M".</item>
+        <item>Dodge Challenger adalah mobil yang diproduksi oleh Chrysler dan dipasarkan dengan merk Dodge. Mobil ini dipasarkan dengan 3 generasi berbeda, yang pertama muncul tahun 1969. Generasi pertama Dodge Challenger adalah mobil poni yang menggunakan platform E Chrysler, menggunakan banyak komponen yang sama dengan Plymouth Barracuda. Generasi kedua, 1978 sampai 1983, adalah badge engineered dari Mitsubishi Galant Lambda.</item>
+        <item>Honda Civic adalah mobil yang diproduksi oleh Honda Motor Company. Pertama kali diperkenalkan pada Juli 1972 sebagai coupé 2 pintu, diikuti dengan versi hatchback 3 pintu pada September tahun itu juga. Mobil ini menggunakan sistem penggerak roda depan, di mana mesinnya diletakkan secara melintang, sehingga dapat menyediakan ruang interior yang cukup luas walaupun dimensi mobil terbilang kecil.</item>
+        <item>Lamborghini Huracán adalah sebuah mobil sport yang dibuat oleh Lamborghini yang menggantikan Gallardo.[1] Mobil sport ini menggunakan mesin yang sama dengan Gallardo, yang telah diatur untuk menghasilkan tenaga 610 PS (449 kW; 602 hp), dan mulai melakukan peluncuran perdananya pada Geneva Auto Show tahun 2014.[2] Huracán mulai dijual pada musim semi tahun 2014.[3]</item>
+        <item>Mazda RX-7 adalah mobil sport yang diproduksi oleh Mazda tahun 1978 sampai 2002. RX-7 pada awalnya menggunakan mesin wankel rotari berkapasitas silinder 1.146 cc (69,9 cu in) dengan penggerak roda belakang. RX-7 menggantikan RX-3. RX-7 awalnya adalah mobil sport dengan lampu utama tersembunyi dan hanya tersedia dengan versi coupé 2 kursi. Mazda RX-7 dipuji oleh para kritikus karena mobil ini menggunakan mesin wankel yang tidak biasanya digunakan untuk mobil. Motor mobil ini merupakan salah satu yang terkuat, berkat sistem twin-turbo.</item>
+        <item>Mobil Mitsubishi Lancer Evo adalah salah satu mobil sedan legendaris yang berjaya sejak 1990-an. Mobil ini dikenal memiliki desain yang lebih trendy dan sporty dibanding pendahulunya, Mitsubishi Lancer. Mitsubishi Lancer Evolution adalah andalan dari Mitsubishi yang turut membesarkan nama Lancer berkat kiprahnya di ajang reli dunia (WRC). Dari ajang WRC inilah lahir Mitsubishi Lancer Evolution pertama kalinya pada Oktober 1992. </item>
+        <item>Generasi pertama Porsche, model 911, muncul pada tahun 1963. Konstruksi 911 cukup unik karena mesinnya terletak di belakang (bukan di tengah-belakang). 911 berperan sebagai penerus dari Porsche 356. Awalnya ingin dinamakan 901, tetapi Peugeot protes bahwa mobil yang dijual di Prancis tidak boleh menggunakan huruf "0" di tengah kecuali Peugeot, sehingga namanya menjadi 911. Mulanya 911 ingin digantikan oleh 928, tetapi tidak jadi dan akhirnya pada tahun 1975, 911 digantikan dengan model baru yang ironisnya masih bernama 911 namun berkode internal 930.</item>
+        <item>Nissan Skyline GT-R adalah grand tourer yang merupakan salah satu generasi Nissan Skyline. GT-R pertama diproduksi tahun 1969–1973. Setelah 16 tahun, nama GT-R kemudian muncul lagi tahun 1989 dengan Skyline R32. Mobil ini disebut oleh Top Gear sebagai satu-satunya kontribusi Jepang di dunia mobil super,[1] dann Jeremy Clarkson mengatakan bahwa mobil ini adalah salah satu yang terbaik di dunia.</item>
+        <item>Toyota Supra adalah mobil sport berperforma tinggi yang diproduksi oleh Toyota Motor Corporation, Jepang dari tahun 1978 sampai 2002. Pada mulanya, Supra adalah versi mewah bermesin 6 silinder dari Toyota Celica. Mulai tahun 1986, Supra menjadi mobil sport tersendiri yang tidak ada hubungannya dengan Celica.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/amg_gts</item>
+        <item>@drawable/bmw_m3</item>
+        <item>@drawable/dodge_chall</item>
+        <item>@drawable/honda_civic</item>
+        <item>@drawable/huracan</item>
+        <item>@drawable/mazda_rx7</item>
+        <item>@drawable/mitsubishi_evo</item>
+        <item>@drawable/porsche_911</item>
+        <item>@drawable/skyline_r34</item>
+        <item>@drawable/supra_mk4</item>
+    </integer-array>
+</resources>

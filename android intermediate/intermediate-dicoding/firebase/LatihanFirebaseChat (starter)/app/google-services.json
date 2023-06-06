@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449542925252",
+    "firebase_url": "https://myloginfirebase-d794d-default-rtdb.firebaseio.com",
+    "project_id": "myloginfirebase-d794d",
+    "storage_bucket": "myloginfirebase-d794d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449542925252:android:a9b35bd607f376c27a5291",
+        "android_client_info": {
+          "package_name": "com.dicoding.myfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449542925252-6p838msciu302m4p4nf9ne1666dntqrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp3eXcxuNDuxda_Vv1XgCpYMgvQ5_xbfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449542925252-0ik97ldpblqt1nj8qrc2egbjol9v67a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
